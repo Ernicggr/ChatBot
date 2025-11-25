@@ -5,7 +5,7 @@ Aquest projecte està organitzat en **dos arxius principals**:
 ---
 
 ## `veu.py`
-Conté una la veu del chatbot.  
+Conté la veu del chatbot.  
 S'encarrega de gestionar la síntesi de veu i de reproduir en alt les respostes de l'assistent.
 
 ---
